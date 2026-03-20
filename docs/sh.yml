@@ -1,0 +1,5 @@
+version: "1.0"
+duo:
+  name: image
+  enabled: true
+  config: mvq
